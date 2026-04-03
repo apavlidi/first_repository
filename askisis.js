@@ -9,3 +9,8 @@ function multiply(a,b){
 return a*b;
 }
 console.log(multiply(5,3));
+
+function devide(a,b){
+return a/b;
+}
+console.log(devide(5,0));
